@@ -1,0 +1,6 @@
+C:\Users\berez\Desktop\проекты\Тестовые задания\C#\LibraryFigures\LibraryFigures\bin\Debug\LibraryFigures.dll
+C:\Users\berez\Desktop\проекты\Тестовые задания\C#\LibraryFigures\LibraryFigures\bin\Debug\LibraryFigures.pdb
+C:\Users\berez\Desktop\проекты\Тестовые задания\C#\LibraryFigures\LibraryFigures\obj\Debug\LibraryFigures.csproj.AssemblyReference.cache
+C:\Users\berez\Desktop\проекты\Тестовые задания\C#\LibraryFigures\LibraryFigures\obj\Debug\LibraryFigures.csproj.CoreCompileInputs.cache
+C:\Users\berez\Desktop\проекты\Тестовые задания\C#\LibraryFigures\LibraryFigures\obj\Debug\LibraryFigures.dll
+C:\Users\berez\Desktop\проекты\Тестовые задания\C#\LibraryFigures\LibraryFigures\obj\Debug\LibraryFigures.pdb
