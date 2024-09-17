@@ -10,8 +10,8 @@
 *- Проверку на то, является ли треугольник прямоугольным*
 
 #### Решение задачи:
-Базовый абстрактный класс "Фигура"  [ТЫК](https://github.com/BerezkaVika/Mindbox_Test_Task/blob/main/LibraryFigures/LibraryFigures/Figure.cs)
-Наследуемый класс "Треуголиник"
-Наследуемый класс "Круг"
-Класс для добавления других фигур 
-Юнит тесты 
+- Базовый абстрактный класс "Фигура"  [ТЫК](https://github.com/BerezkaVika/Mindbox_Test_Task/blob/main/LibraryFigures/LibraryFigures/Figure.cs)
+- Наследуемый класс "Треуголиник"
+- Наследуемый класс "Круг"
+- Класс для добавления других фигур 
+- Юнит тесты 
